@@ -1,0 +1,24 @@
+{
+  "lat": "18.483402N",
+  "lon": "69.929611W",
+  "elevation": 52,
+  "timezone": "America/Santo_Domingo",
+  "units": "metric",
+  "current": {
+    "icon": "mostly_sunny",
+    "icon_num": 3,
+    "summary": "Mostly sunny",
+    "temperature": 27.8,
+    "feels_like": 32.0,
+    "wind_chill": 29.5,
+    "dew_point": 24.8,
+    "wind": { "speed": 3.8, "gusts": 7.3, "angle": 9, "dir": "N" },
+    "precipitation": { "total": 0.0, "type": "none" },
+    "cloud_cover": 19,
+    "ozone": 284.29,
+    "pressure": 1015,
+    "uv_index": 3.24,
+    "humidity": 83,
+    "visibility": 11.39
+  }
+}
