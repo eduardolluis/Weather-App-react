@@ -1,4 +1,4 @@
-º# ReactJS Weather App
+## ReactJS Weather App
 
 ## Table of Contents
 
